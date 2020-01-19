@@ -1,0 +1,7 @@
+{
+    "appName": "Mato",
+    "menu": {
+        "takeScreenshot": "Select color",
+        "quit": "Quit"
+    }
+}
