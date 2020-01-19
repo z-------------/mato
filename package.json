@@ -16,6 +16,6 @@
 		"file-url": "^3.0.0",
 		"is-electron-renderer": "^2.0.1",
 		"screenshot-desktop": "^1.10.0",
-		"ukogi": "link:..\\ukogi"
+		"ukogi": "^0.0.2"
 	}
 }
